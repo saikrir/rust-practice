@@ -7,6 +7,8 @@ mod sort;
 
 mod morse;
 
+mod cards;
+
 fn main() {
     println!("Hello World")
 }
