@@ -14,6 +14,10 @@ mod deadline;
 mod temperature;
 
 mod miss_values;
+
+mod dates;
+
+mod isbn;
 fn main() {
     println!("Hello World")
 }
