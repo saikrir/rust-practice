@@ -18,6 +18,10 @@ mod miss_values;
 mod dates;
 
 mod isbn;
+
+mod filemetadata;
+
+mod rgb;
 fn main() {
     println!("Hello World")
 }
